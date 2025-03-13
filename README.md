@@ -12,7 +12,7 @@ To utilize my knowledge and ideas in the field of **machine learning**, **data s
 - 📊 Hadoop, Spark, Data Visualization  
 
 📫 **Reach me on:**  
-- 💼 [LinkedIn](#https://www.linkedin.com/in/shadia-akther/)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/shadia-akther/)   
 
 🌱 **Current Projects:**  
 - E-commerce Product Recommendation System  
