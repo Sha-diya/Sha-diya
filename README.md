@@ -23,8 +23,7 @@ To utilize my knowledge and ideas in the field of **machine learning**, **data s
 💻 **Most Used Languages:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha-diya&layout=compact&theme=radical)  
 
-🏆 **Achievements:**  
-- 🌱 Learning data science & Machine Learning 
-- 💡 Exploring deep learning, NLP, and computer vision  
-- 🌐 Learning Django & Python  
-- 🧠 Self-motivated, focused, hardworking & perfectionist  
+🌱 Learning data science & Machine Learning 
+💡 Exploring deep learning, NLP, and computer vision  
+🌐 Learning Django & Python  
+🧠 Self-motivated, focused, hardworking & perfectionist  
