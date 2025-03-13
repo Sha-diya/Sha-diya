@@ -15,5 +15,5 @@ To utilize my knowledge and ideas in the field of **machine learning**, **data s
 - 💼 [LinkedIn](https://www.linkedin.com/in/shadia-akther/)   
 
 🌱 **Current Projects:**  
-- E-commerce Product Recommendation System  
-- Personal Expense Tracker in Python  
+- MOvie Recommendation System  
+  
