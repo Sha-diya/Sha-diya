@@ -18,10 +18,10 @@ To utilize my knowledge and ideas in the field of **machine learning**, **data s
   
 
 📈 **GitHub Stats:**  
-![Shadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaDiya06&show_icons=true&theme=radical)  
+![Shadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sha-diya&show_icons=true&theme=radical)  
 
 💻 **Most Used Languages:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaDiya06&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha-diya&layout=compact&theme=radical)  
 
 🏆 **Achievements:**  
 - 🌱 Learning data science & Machine Learning 
