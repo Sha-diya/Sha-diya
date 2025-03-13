@@ -1,6 +1,6 @@
 # Hi there, it's Shadia 👋
 
-**Machine Learning Enthusiast** | **Data Scientist in the Making** | **Python Developer**
+**Machine Learning Enthusiast** | **Data Scientist** | **Python Developer**
 
 To utilize my knowledge and ideas in the field of **machine learning**, **data science**, and **backend development** toward building innovative and impactful solutions. I believe that **satisfaction is a journey of learning**, filled with experiences of **trying, failing, improving, and finally succeeding**. Every project I take on strengthens my passion for **problem-solving** and **continuous growth**.
 
