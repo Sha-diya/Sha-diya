@@ -15,5 +15,5 @@ To utilize my knowledge and ideas in the field of **machine learning**, **data s
 - 💼 [LinkedIn](https://www.linkedin.com/in/shadia-akther/)   
 
 🌱 **Current Projects:**  
-- MOvie Recommendation System  
+- Movie Recommendation System  
   
