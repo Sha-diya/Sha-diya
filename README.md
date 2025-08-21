@@ -1,29 +1,48 @@
-# Hi there, it's Shadia 👋
+# Hi there, I'm Shadia 👋  
 
-**Machine Learning Enthusiast** | **Data Scientist** | **Python Developer**
+**Deep Learning Entusiast** | **Machine Learning Enthusiast** | **AI Developer** | **Data Scientist**   
 
-To utilize my knowledge and ideas in the field of **machine learning**, **data science**, and **backend development** toward building innovative and impactful solutions. I believe that **satisfaction is a journey of learning**, filled with experiences of **trying, failing, improving, and finally succeeding**. Every project I take on strengthens my passion for **problem-solving** and **continuous growth**.
+✨ I aim to utilize my knowledge and ideas in **machine learning**, **data science**, and **backend development** to build impactful solutions.  
+💡 I believe satisfaction comes from **continuous learning** — trying, failing, improving, and finally succeeding.  
+🚀 Every project strengthens my passion for **problem-solving** and **innovation**.  
 
+---
 
-🛠️ **Tech Stack:**  
-- 💻 Python, Django, SQL  
-- 🧠 Machine Learning, Computer Vision, Data Science  
-- 📊 Hadoop, Spark, Data Visualization  
+## 🛠️ Tech Stack  
+- 💻 **Languages & Frameworks:** Python, Django, SQL  
+- 🧠 **AI/ML/DL:** Computer Vision, NLP, Data Science  
+- 📊 **Tools:** VS Code, Jupyter Notebook, Google Colab  
 
-📫 **Reach me on:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shadia-akther/)   
+<p align="center">
+  <img src="https://github.com/sha-diya/sha-diya/blob/main/assets/coding.gif" width="300"/>
+</p>
 
-🌱 **Current Projects:**  
-- Movie Recommendation System  
-  
+---
 
-📈 **GitHub Stats:**  
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shadia-akther/)  
+
+---
+
+## 🌱 Current Projects  
+- 🎬 [Movie Recommendation System](https://github.com/Sha-diya/movie-recommender-app)  
+- 🔢 [Handwritten Digit Classification (CNN, MNIST)](https://github.com/Sha-diya/Deep-Learning/tree/main/Handwritten%20digit%20classification)  
+
+---
+
+## 📊 GitHub Stats  
 ![Shadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sha-diya&show_icons=true&theme=radical)  
-
-💻 **Most Used Languages:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha-diya&layout=compact&theme=radical)  
 
-🌱 Learning data science & Machine Learning 
-💡 Exploring deep learning, NLP, and computer vision  
-🌐 Learning Django & Python  
-🧠 Self-motivated, focused, hardworking & perfectionist  
+---
+
+## 🌟 About Me  
+🌱 Currently learning **Data Science & Machine Learning**  
+💡 Exploring **Deep Learning, NLP, and Computer Vision**  
+🌐 Practicing **Django & Python for Backend Development**  
+🧠 Self-motivated • Focused • Hardworking • Perfectionist  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4QhOq3r6M0PC8/giphy.gif" width="300"/>
+</p>
+
