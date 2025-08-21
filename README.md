@@ -2,7 +2,7 @@
 
 **Deep Learning Entusiast** | **Machine Learning Enthusiast** | **AI Developer** | **Data Scientist**   
 
-✨ I aim to utilize my knowledge and ideas in **machine learning**, **data science**, and **backend development** to build impactful solutions.  
+✨ I aim to utilize my knowledge and ideas in **DL**, **ML**, **AI** and **data science** to build impactful solutions.  
 💡 I believe satisfaction comes from **continuous learning** — trying, failing, improving, and finally succeeding.  
 🚀 Every project strengthens my passion for **problem-solving** and **innovation**.  
 
